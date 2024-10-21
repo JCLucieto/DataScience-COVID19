@@ -1,4 +1,4 @@
-# DataScience-COVID19
+# DataScience - COVID19
 DataScience - COVID-19 - Curitiba
 
 <!--   ![Logotipo da Empresa AYIT Digital](logoayit.png)    -->
