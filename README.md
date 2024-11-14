@@ -7,6 +7,8 @@ DataScience - COVID-19 - Curitiba
 
 # <font color='dark'>**Projeto de Data Science Utilizando Pandas e Streamlit**</font>
 
+Visualize em : https://jclucieto-projetos-covid-19.streamlit.app/
+
 <details>
 
   <summary>
